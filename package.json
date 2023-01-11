@@ -1,0 +1,23 @@
+{
+  "name": "js-mvc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSemir0418/js-mvc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSemir0418/js-mvc/issues"
+  },
+  "homepage": "https://github.com/GSemir0418/js-mvc#readme",
+  "dependencies": {
+    "vite": "4.0.4"
+  }
+}
